@@ -18,11 +18,11 @@ int main(void)
 		if  (k < j)
 		{
 			putchar(k + '0');
-			putchat(j + '0');
+			putchar(j + '0');
 		}
 	}
 	i++;
 
-	putchar('\;n');
+	putchar('\n');
 	return (0);
 }
