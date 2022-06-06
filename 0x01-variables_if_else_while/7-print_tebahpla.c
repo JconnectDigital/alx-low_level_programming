@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - print tebahpla.
  * Return: Always 0 (Success)
 */
